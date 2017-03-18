@@ -1,6 +1,8 @@
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AYCS/jquery.svg)](https://greenkeeper.io/)
+
 Contribution Guides
 --------------------------------------
 
